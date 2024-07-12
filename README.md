@@ -22,4 +22,4 @@
 - [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
 
 ### License
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
