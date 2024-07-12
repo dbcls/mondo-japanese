@@ -8,7 +8,7 @@
 - MONDOの日本語訳は、専門の翻訳家による翻訳作業を行っておりますが、一部機械翻訳による翻訳も含まれます。最終的には全て専門の翻訳家による翻訳が実施されます。ファイルはTSV、エクセルで提供します。
 
 ## Information
-- 
+- 公開される日本語訳は、Monarch initiativeへも提供しています。
 
 ## Up date
 - 2024/07/12 新規に翻訳ファイルをアップロードしました
@@ -21,5 +21,5 @@
 ## Sources
 - [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
 
-### © 2024 DBCLS, Licensed under
-Creative Commons Attribution 4.0 International license (CC-BY 4.0)
+### License
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
