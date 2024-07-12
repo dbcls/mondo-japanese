@@ -1,7 +1,7 @@
 ## Project title
 - MONDO Japanese Translation Project
   
-## MONDO（Mondo Disease Ontology)　日本語訳版
+## MONDO（Mondo Disease Ontology)　日本語訳
 - Monarch initiative において作成されたMondo Disease Ontology（MONDO）は、疾患に関する語彙集です。日本語化することで、日本におけるMONDOオントロジーの利便性の向上を目指しています。
 
 ## 提供ファイルについて
@@ -20,3 +20,6 @@
 
 ## Sources
 - [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
+
+### © 2024 DBCLS, Licensed under
+Creative Commons Attribution 4.0 International license (CC-BY 4.0)
