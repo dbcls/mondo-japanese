@@ -1,4 +1,4 @@
-## Project title
+# Project title
 - MONDO Japanese Translation Project
   
 ## MONDO（Mondo Disease Ontology)　日本語訳
@@ -24,5 +24,5 @@
 ## Sources
 - [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
 
-### License
+## License
 - [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
