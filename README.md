@@ -5,16 +5,21 @@
 - Monarch initiative において作成されたMondo Disease Ontology（MONDO）は、疾患に関する語彙集です。日本語化することで、日本におけるMONDOオントロジーの利便性の向上を目指しています。
 
 ## 提供ファイルについて
-- MONDOの日本語訳は、専門の翻訳家による翻訳作業を行っておりますが、一部、機械翻訳も含まれます。最終的には全て専門の翻訳家による翻訳が実施されます。ファイルはTSV、エクセルで提供します。尚、2025年8月の時点で、MONDOの30,294語彙(obsolete 4,023語彙)に対して、23,150語彙に日本語訳を提供しています。（翻訳作業は継続的に実施しています。）
+- MONDOの日本語訳は、専門の翻訳家による翻訳作業を行っておりますが、一部、機械翻訳も含まれます。最終的には全て専門の翻訳家による翻訳が実施されます。ファイルはTSV、エクセルで提供します。尚、2025年8月の時点で、MONDOの30,306語彙(obsolete 4,025語彙)に対して、22,633語彙に日本語訳を提供しています。（翻訳作業は継続的に実施しています。）
 
 ## Information
+- [トーゴーの日シンポジウム2025](https://biosciencedbc.jp/event/symposium/togo2025/)においてポスター発表を行います
+  - 2025年10月20日（月）34番 第1部 「表現型オントロジー（Mondo/MP）の日本語化による国際連携と活用」
+- [IIBMP2025](https://www.jsbi.org/iibmp2025/)においてポスター発表を行いました
+  - 「Facilitating International Collaboration and Utilization through the Japanese Translation of Phenotype Ontologies」
 - [OLSのMONDOページ](https://www.ebi.ac.uk/ols4/ontologies/mondo?lang=jp)で日本語版が参照できるようになりました
-- 公開される日本語訳は、Monarch initiativeへも提供しています。
-- [トーゴーの日](https://biosciencedbc.jp/event/symposium/togo2024/)においてポスター発表を行いました。
+- 公開される日本語訳は、Monarch initiativeへも提供しています
+- [トーゴーの日シンポジウム2024](https://biosciencedbc.jp/event/symposium/togo2024/)においてポスター発表を行いました
   - 2024年10月5日（土）47番 第2部　「医療情報のデータ統合・共有に役立つ医療オントロジーの日本語化と国際共有について」
 
 
 ## Up date
+- 2025/09/12 データを更新しました MONDO version 2025-09-02に対応
 - 2025/08/15 データを更新しました MONDO version 2025-08-05に対応
 - 2025/07/15 データを更新しました MONDO version 2025-07-01に対応
 - 2025/06/12 データを更新しました MONDO version 2025-06-03に対応
