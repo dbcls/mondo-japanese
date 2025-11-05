@@ -8,7 +8,7 @@
 - MONDOの日本語訳は、専門の翻訳家による翻訳作業を行っておりますが、一部、機械翻訳も含まれます。最終的には全て専門の翻訳家による翻訳が実施されます。ファイルはTSV、エクセルで提供します。尚、2025年10月の時点で、MONDOの30,333語彙(obsolete 4,034語彙)に対して、23,446語彙に日本語訳を提供しています。（翻訳作業は継続的に実施しています。）
 
 ## Information
-- [トーゴーの日シンポジウム2025](https://biosciencedbc.jp/event/symposium/togo2025/)においてポスター発表を行います
+- [トーゴーの日シンポジウム2025](https://biosciencedbc.jp/event/symposium/togo2025/)においてポスター発表を行いました
   - 2025年10月20日（月）34番 第1部 「表現型オントロジー（Mondo/MP）の日本語化による国際連携と活用」
 - [IIBMP2025](https://www.jsbi.org/iibmp2025/)においてポスター発表を行いました
   - 「Facilitating International Collaboration and Utilization through the Japanese Translation of Phenotype Ontologies」
